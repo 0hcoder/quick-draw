@@ -1,2 +1,2 @@
 # quick-draw
-second badge
+second badgee
